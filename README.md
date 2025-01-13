@@ -1,5 +1,5 @@
-Hello! 
-wave.gif
+Hello!  wave.gif
+
 I'm Mukesh and working in as Data Scientist intern.
 
 🧑‍💻 When I'm not at work or managing projects, you can often find me coding, learning new stuff, and honing my skills on various areas including ✳️ Machine Learning, ✳️ Data Science and ✳️ Data Visualization projects.
