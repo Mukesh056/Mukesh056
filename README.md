@@ -1,4 +1,4 @@
-Hello!  wave.gif
+Hello!
 
 I'm Mukesh and working in as Data Scientist intern.
 
