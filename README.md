@@ -1,5 +1,3 @@
-- Aspiring Data Scientist | Proficient in Python, SQL, Machine Learning, and Data Visualization | Expertise in exploratory data analysis(EDA), Predictive Modeling, and Feature Engineering
-
 Hello! 
 wave.gif
 I'm Mukesh and working in as Data Scientist intern.
