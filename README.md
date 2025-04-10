@@ -1,6 +1,6 @@
 Hello!
 
-I'm Mukesh and working as Data Scientist intern.
+I'm Mukesh, a dedicated and detail-oriented data analyst with a strong passion for turning raw data into meaningful insights.
 
 🧑‍💻 When I'm not at work or managing projects, you can often find me coding, learning new stuff, and honing my skills on various areas including ✳️ Machine Learning, ✳️ Data Science and ✳️ Data Visualization projects.
 
